@@ -1,0 +1,46 @@
+ERGIA_back/venv/
+ERGIA_back/logs/
+ERGIA_back/__pycache__/
+ERGIA_back/conf/config.ini
+ERGIA_back.idea
+
+# Compiled output
+ERGIA_FRONT/dist
+ERGIA_FRONT/tmp
+ERGIA_FRONT/out-tsc
+ERGIA_FRONT/bazel-out
+
+# Node
+ERGIA_FRONT/node_modules
+ERGIA_FRONT/npm-debug.log
+ERGIA_FRONT/yarn-error.log
+
+# IDEs and editors
+ERGIA_FRONT/.idea/
+ERGIA_FRONT/.project
+ERGIA_FRONT/.classpath
+ERGIA_FRONT/.c9/
+ERGIA_FRONT/*.launch
+ERGIA_FRONT/.settings/
+ERGIA_FRONT/*.sublime-workspace
+
+# Visual Studio Code
+ERGIA_FRONT/.vscode/*
+ERGIA_FRONT/!.vscode/settings.json
+ERGIA_FRONT/!.vscode/tasks.json
+ERGIA_FRONT/!.vscode/launch.json
+ERGIA_FRONT/!.vscode/extensions.json
+ERGIA_FRONT/.history/*
+
+# Miscellaneous
+ERGIA_FRONT/.angular/cache
+ERGIA_FRONT/.sass-cache/
+ERGIA_FRONT/connect.lock
+ERGIA_FRONT/coverage
+ERGIA_FRONT/libpeerconnection.log
+ERGIA_FRONT/testem.log
+ERGIA_FRONT/typings
+
+# System files
+ERGIA_FRONT/.DS_Store
+ERGIA_FRONT/Thumbs.db
